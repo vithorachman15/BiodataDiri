@@ -1,0 +1,17 @@
+print ("Tugas Biodata")
+print()
+nama = input("Vitho Rachman Hidayah")
+nickname = input("Vitho")
+nim = input("312110107") 
+ttl = input("Jakarta,15 September 2003")
+alamt = input("Perum Delta Residence Blok E No 55")
+tlpn = input("083244556677")
+umur = input("18 Tahun")
+print ()
+print ("assalamua'laikum")
+print ()
+print ("let me introduce my self. my name is",nama,"but you can call me",nickname,"my nim is",nim,"i was born in",ttl,
+       "and i am",umur,"years old. i am very gald if you want to invite my house in",alamt,"so, don't forget to call me before with the number"
+       ,tlpn,  )
+print()
+print("THANKS YOU")
